@@ -1,0 +1,5 @@
+package com.devstrix.pocketrocket
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity : FlutterActivity()
