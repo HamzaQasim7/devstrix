@@ -51,6 +51,7 @@ class CustomTextField extends StatelessWidget {
           validator: validator,
           decoration: InputDecoration(
             hintText: hint,
+
             prefixIcon: Icon(icon, color: AppColors.textGrey, size: 20),
             filled: true,
             fillColor: AppColors.darkBg,
